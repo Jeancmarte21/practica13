@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/webAvanzada-Practica12-Servidor-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Practica11" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../practica10" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../quiz/crud-webapp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../registro_eventos" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rental-management-system" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/Practica 11/practica11-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/Practica13-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/practica10-springboot-electronica-oscar-jean-cesar-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/practica11-balanceador-carga-oscar-jean-cesar-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/practica13-jms-broker-mensajeria-oscar-jean-cesar-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/practica13-master-2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/practica10" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1280" />
+    <option name="y" value="23" />
+    <option name="width" value="1305" />
+    <option name="height" value="667" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practica13.JMS.Main" />
+      <module name="JMS_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practica13.JMS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
